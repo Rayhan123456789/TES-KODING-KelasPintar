@@ -88,3 +88,7 @@ Invite github / gitlab repository ke galih.suryo@kelaspintar.id
 Buat README.md, dengan ketentuan : 
 Cara menjalankan apps / website
 Screenshot hasil
+
+Tes 1
+![image](https://user-images.githubusercontent.com/87824990/146723444-4701ab9a-8998-46ac-8903-5c760aebca19.png)
+
