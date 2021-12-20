@@ -1,4 +1,11 @@
 # TES-KODING-KelasPintar
+just write in terminal :
+node Teslogika.js
+node Teslogika2.js
+node Teslogika3.js
+node Teslogika4.js
+
+
 TES LOGIKA
 Buat fungsi berikut menggunakan bahasa pemrograman yang paling anda kuasai (boleh js, python, php, java, dll.)
 Buat fungsi dengan menampilkan bilangan cacah kelipatan 3 atau 7 sebanyak N, serta menampilkan huruf Z saat bilangan tersebut kelipatan 3 dan 7.
