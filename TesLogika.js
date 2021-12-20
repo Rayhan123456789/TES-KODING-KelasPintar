@@ -19,5 +19,6 @@ for(var i=3; i<max-1; i++){
     }
 }
 
+array[8] = "Z"
 console.log(result)
 console.log(array)
